@@ -52,8 +52,8 @@ File logfile;
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "pivooo"
-#define AIO_KEY         "85b620d571ad4ed8b780601708ce2f57"
+#define AIO_USERNAME    ""
+#define AIO_KEY         ""
 #define LOGGING_PERIOD  20
 int logCounter = 0;
 
